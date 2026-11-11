@@ -1,0 +1,21 @@
+# Bancos locais e possíveis registros de usuários
+*.mdf
+*.ldf
+*.bak
+*.sqlite
+*.db
+
+# Ambientes de desenvolvimento
+.vs/
+bin/
+obj/
+*.suo
+*.user
+.vscode/
+.idea/
+.env
+.env.*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
