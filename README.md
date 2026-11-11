@@ -63,7 +63,6 @@ O Microsoft Silverlight é uma tecnologia **descontinuada** e incompatível com 
 - **Título:** *Estudo e desenvolvimento de uma aplicação para consulta de viagens rodoviárias utilizando Silverlight*
 - **Curso:** Ciência da Computação
 - **Instituição:** URI — Frederico Westphalen/RS
-- **Orientador:** Prof. Maurício Sulzbach
 - **Ano:** 2011
 
 ---
